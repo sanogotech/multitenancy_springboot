@@ -1,5 +1,9 @@
+## Docs
 
-Run application locally:
+- https://medium.com/@konstde00/spring-boot-multi-tenant-architecture-overview-88198ea3991f
+
+
+## Run application locally:
 
 - Run postgres instance specified in ```docker-compose.yml``` :
 
